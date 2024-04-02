@@ -12,9 +12,12 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div><h3 align="left">Connect with me:</h3>
+</div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ayh00am" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="ayh00am" height="30" width="40" /></a><a href="https://instagram.com/ayham.dw" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ayham.dw" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/ayhamdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayhamdw" height="30" width="40" />
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

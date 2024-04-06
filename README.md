@@ -50,13 +50,10 @@
 <div align="center">
 <a href="https://github.com/ayhamdw">
 <div align ="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayhamdw&theme=2077" height="180em" />
+ <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayhamdw&theme=gotham" alt="ayhamdw" />
   &nbsp &nbsp &nbsp
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayhamdw&theme=2077" height="180em" />
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhamdw&layout=compact&theme=gotham" alt=ayhamdw />
 </div>
 <br>
-<div>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayhamdw&theme=tokyo-night"/>
-</div>
 </div>
 

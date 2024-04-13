@@ -7,7 +7,7 @@
 </h2>
 
 
-<h4 align="center">Computer Engineering student, I'm currently in my fourth year, with just one more to go</h4>
+<h4 align="center">Computer Engineering student, I'm currently in my fourth year, with just one more to go.</h4>
 
 
 <br>

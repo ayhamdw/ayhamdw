@@ -1,6 +1,3 @@
-
-
----
 [![](https://visitcount.itsvg.in/api?id=ayhamdw&icon=0&color=0)](https://visitcount.itsvg.in)
 <h2 align ="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A5F3FC&center=true&vCenter=true&random=false&width=615&lines=Hello+there%2C+Say+Hello!;I'm+Ayham+Al-Duwairi;Striving+for+Mastery+in+Backend+%F0%9F%92%AA" alt="Typing SVG" /></a>
